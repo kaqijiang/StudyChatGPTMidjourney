@@ -25,6 +25,10 @@ AI能改变世界吗？当然！立刻吗？不是。
 
 #### [专栏飞书知识库地址](https://nhrvt0kw31.feishu.cn/wiki/TjZuwJtnfisaqwkRtI4cDQyVngb?from=from_copylink)
 
+[Auto-GPT中文版地址](https://github.com/kaqijiang/Auto-GPT-ZH)
+
+[Auto-GPT中文网页版地址](https://www.autogpt-zh.com)
+
 ## 专栏有什么？
 
 目录结构暂定如下，会根据各位老师和同学的反馈实时调整。
