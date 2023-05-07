@@ -1,13 +1,11 @@
 # 用AI工作学习创作专栏
 
-<img width="300" src= "https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=NTQ2YWQxYjZkMzA4ODA2NTUxNGRhNmViMTYyNDUwMjFfRDg4UUk2Z04zVlgxTVVrSmJxcVRJWnVScG1COGlSTGlfVG9rZW46U2RpV2JrbVJLb2szbHl4V0lPcmNFcDJBblFoXzE2ODM0NDY0NTg6MTY4MzQ1MDA1OF9WNA" align=left />
+<img width="300" src= "./gzh.png" align=left />
 <br>
 
 #### 公众号<阿杰的人生路>回复"AI"加入群聊，共同探讨更多玩法
 
 <br>
-
-<img src="./gzh.png">
 
 ## 导读-这一次，从门外汉到80分的AI使用者
 
