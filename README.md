@@ -85,6 +85,7 @@ AI能改变世界吗？当然！立刻吗？不是。
 
 让我们一起携手前行，共同打造一个充满智慧和活力的学习社群吧！期待你经验和创意的贡献，快来加入我们吧！
 
+## 免费获取API-Key和ChatGPT账号
 分享一个可以免费获取API-Key和ChatGPT账号网站
 
 <a href="https://fxyu.djsopenai.com/" target="_blank">
