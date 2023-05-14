@@ -64,8 +64,8 @@ AI能改变世界吗？当然！立刻吗？不是。
 
 <img width="300" src= "./doc/imgs/gzh.png" align=left />
 
-<h3 style="text-align:left" >公众号<阿杰与AI><br/><br/>回复"AI"加入群聊<br/><br/>共同探讨更多玩法
-</h3>
+<h4 style="text-align:left" >公众号<阿杰与AI><br/>回复"AI"加入群聊<br/>共同探讨更多玩法
+</h4>
 
 </div>
 
