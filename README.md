@@ -92,10 +92,10 @@ AI能改变世界吗？当然！立刻吗？不是。
 - [ChatGPT们对今后社会生活的影响](./学习ChatGPT的基础知识/2.ChatGPT们对今后社会生活的影响.md)
 - [目前市面比较好的AI产品介绍](./学习ChatGPT的基础知识/3.目前市面比较好的AI产品介绍.md)
 - [注册方式汇总](./学习ChatGPT的基础知识/4.注册方式汇总.md)
-- [针对初学者的 ChatGPT 速成课程](./学习ChatGPT的基础知识/5.针对初学者的 ChatGPT 速成课程.md)
+- [针对初学者的ChatGPT速成课程](./学习ChatGPT的基础知识/5.针对初学者的ChatGPT速成课程.md)
 - [使用ChatGPT前应当学会提问](./学习ChatGPT的基础知识/5.1使用ChatGPT前应当学会提问.md)
 - [ChatGPT如何辅助工作](./学习ChatGPT的基础知识/6.ChatGPT如何辅助工作.md)
-- [ChatGPT处理Excel Word PPT](./学习ChatGPT的基础知识/6.1ChatGPT处理Excel Word PPT.md)
+- [ChatGPT处理Excel Word PPT](./学习ChatGPT的基础知识/6.1ChatGPT处理Excel_Word_PPT)
 - [使用ChatGPT面向岗位制作简历、扮演面试官](./学习ChatGPT的基础知识/6.2使用ChatGPT面向岗位制作简历、扮演面试官.md)
 - [使用ChatGPT辅助学习](./学习ChatGPT的基础知识/7.使用ChatGPT辅助学习.md)
 - [使用ChatGPT助力程序开发](./学习ChatGPT的基础知识/8.使用ChatGPT助力程序开发.md)
@@ -103,21 +103,21 @@ AI能改变世界吗？当然！立刻吗？不是。
 - [AI各种模型的聊天机器人的接入聊天平台](./学习ChatGPT的基础知识/8.2AI各种模型的聊天机器人的接入聊天平台.md)
 - [利用VITS训练与推理AI音声](./学习ChatGPT的基础知识/8.3利用VITS训练与推理AI音声.md)
 - [使用Chatgpt搜索文献并导入vosviewer进行文献可视化分析](./学习ChatGPT的基础知识/8.4使用Chatgpt搜索文献并导入vosviewer进行文献可视化分析.md)
-- [吴恩达-面向开发人员的 ChatGPT 提示工程](./学习ChatGPT的基础知识/9.吴恩达-面向开发人员的 ChatGPT 提示工程​.md)
+- [吴恩达-面向开发人员的ChatGPT提示工程](./学习ChatGPT的基础知识/9.吴恩达-面向开发人员的ChatGPT提示工程​.md)
 
 ### 学习MidJoureny的基础知识
-- [1.Midjourney 新手快速起步指南](./学习MidJoureny的基础知识/1.Midjourney 新手快速起步指南.md)
+- [1.Midjourney 新手快速起步指南](./学习MidJoureny的基础知识/1.Midjourney新手快速起步指南.md)
 - [2.Prompts-指令](./学习MidJoureny的基础知识/2.Prompts-指令.md)
-- [3.Explore Prompting-Prompt的探索](./学习MidJoureny的基础知识/3.Explore Prompting-Prompt的探索.md)
+- [3.Explore Prompting-Prompt的探索](./学习MidJoureny的基础知识/3.ExplorePrompting-Prompt的探索.md)
 - [4.Blend-叠加](./学习MidJoureny的基础知识/4.Blend-叠加.md)
-- [5.Midjourney Discord的使用手册](./学习MidJoureny的基础知识/5.Midjourney Discord的使用手册.md)
+- [5.Midjourney Discord的使用手册](./学习MidJoureny的基础知识/5.MidjourneyDiscord的使用手册.md)
 - [6.Versions-版本](./学习MidJoureny的基础知识/6.Versions-版本.md)
 - [7.Upscalers-放大器](./学习MidJoureny的基础知识/7.Upscalers-放大器.md)
-- [8.Midjourney 命令教程](./学习MidJoureny的基础知识/8.Midjourney 命令教程.md)
-- [9.Midjourney 参数合集](./学习MidJoureny的基础知识/9.Midjourney 参数合集.md)
-- [10.Midjourney Prompt进阶探索](./学习MidJoureny的基础知识/10.Midjourney Prompt进阶探索.md)
+- [8.Midjourney 命令教程](./学习MidJoureny的基础知识/8.Midjourney命令教程.md)
+- [9.Midjourney 参数合集](./学习MidJoureny的基础知识/9.Midjourney参数合集.md)
+- [10.Midjourney Prompt进阶探索](./学习MidJoureny的基础知识/10.MidjourneyPrompt进阶探索.md)
 - [11.Promp关键词公式](./学习MidJoureny的基础知识/11.Promp关键词公式.md)
-- [12.ChatGPT生成 SD 和 Midj 的提示（prompt）](./学习MidJoureny的基础知识/12.ChatGPT生成 SD 和 Midj 的提示（prompt）.md)
+- [12.ChatGPT生成SD和Midj的提示（prompt）](./学习MidJoureny的基础知识/12.ChatGPT生成SD和Midj的提示（prompt）.md)
 - [13.如何使用ChatGPT给出MidJourney提示-【秘密武器】](./学习MidJoureny的基础知识/13.如何使用ChatGPT给出MidJourney提示-【秘密武器】.md)
 - [14.如何订阅计划](./学习MidJoureny的基础知识/14.如何订阅计划.md)
 ### ChatGPT提示词
@@ -133,8 +133,8 @@ AI能改变世界吗？当然！立刻吗？不是。
 
 #### V4
 
-- [标志设计](./MidJourney Prompt/V4/标志设计.md)
-- [网页&APPUI设计](./MidJourney Prompt/V4/网页&APPUI设计.md)
+- [标志设计](./MidJourneyPrompt/V4/标志设计.md)
+- [网页&APPUI设计](./MidJourneyPrompt/V4/网页&APPUI设计.md)
 
 #### V5
 
@@ -145,7 +145,7 @@ AI能改变世界吗？当然！立刻吗？不是。
 - [通过ChatGPT尝试量化交易](./应用/通过ChatGPT尝试量化交易.md)
 - [用AI玩转短视频](./应用/用AI玩转短视频.md)
 - [ChatGPT接入微信](./应用/ChatGPT接入微信.md)
-- [Stable Diffusion部署以及基于云端的模型训练](./应用/Stable Diffusion部署以及基于云端的模型训练.md)
+- [Stable Diffusion部署以及基于云端的模型训练](./应用/StableDiffusion部署以及基于云端的模型训练.md)
 ### [AI工具](./工具箱.md)
 
 ### GitHub项目
