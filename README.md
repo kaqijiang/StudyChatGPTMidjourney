@@ -60,15 +60,15 @@ AI能改变世界吗？当然！立刻吗？不是。
 具体内容在下方。
 
 ## 邀你一起「共建」专栏
-<div style="text-align: left;height:120px">
+<div style="text-align: left;>
 <img width="300" src= "./doc/imgs/gzh.png" align=left />
 
-<span>公众号<阿杰与AI>回复"AI"加入群聊<br/>共同探讨更多玩法</span>
+<span>公众号<阿杰与AI>回复"AI"加入群聊共同探讨更多玩法</span>
 
 </div>
 
 <br>
-
+<br/>
 最后，我们也想向你发出一份特殊的邀请，请你一起「共建」这门专栏。
 
 与你在其他地方看到的专栏不同，这一次，你不仅仅是「学员」，也是「老师」。
