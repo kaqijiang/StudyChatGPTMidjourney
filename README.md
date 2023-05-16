@@ -9,11 +9,12 @@
         <td width="50%"><img src="./doc/imgs/way2.png" /></td>
     </tr>
 </table>
-<img width="300" src= "./doc/imgs/gzh.png" align="left">
-
-公众号【**阿杰与AI**】回复"**AI**"加入群聊共同探讨更多玩法<br/>
-
-------
+<div>
+<img width="40%" src= "./doc/imgs/gzh.png" align="left">
+<p>公众号【阿杰与AI】</p>
+<p>回复"**AI**"加入群聊共同探讨更多玩法</p>
+</div>
+<hr>
 
 ## 目录
 
