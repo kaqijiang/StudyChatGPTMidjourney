@@ -11,7 +11,7 @@
         </tr>
     </table>
     <p>
-        <img width="40%" src= "./doc/imgs/gzh.png" align="left">
+        <img width="220" style="" src= "./doc/imgs/gzh.png" >
         <p>公众号【阿杰与AI】</p>
         <p>回复"AI"加入群聊共同探讨更多玩法</p>
     </p>
