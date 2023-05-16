@@ -1,0 +1,14 @@
+![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=MTcwMjc2YzE1Njk1MzhjNDAxMjA2MDhlNTk2YThiOTFfQVhESVl3YkI0ZHU0NlptTXUxb010RUw5ekM5bTZLRU9fVG9rZW46SjZMTmJmVjhFbzlxZzJ4MDFOcGNocFVObkxlXzE2ODQxOTg1OTc6MTY4NDIwMjE5N19WNA)
+
+V4 非常擅长识别对几乎所有内容的引用。在上面的示例中，看起来 V3 模型具有电影《*老无所依》*的视觉氛围的一些细节，但在 V4 中看起来模型实际上具有有关角色的信息 。
+
+这真太了不起了！该模型对那里有多少种不同的创意作品了解多少？
+
+您现在可以测试的一些内容：
+
+- 为没有现有电影的书籍生成电影海报
+- 为现有电影生成电影海报，看看 V4 的效果如何！
+
+| ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=MWM0MjQ0NjAwZjE1ZDM2ZjdmMTUzMzZiMzYzMTcxODVfampyamloZGkyb2hpQkhBZ0JlbVd1Qm9SeU8xNnZyWmJfVG9rZW46TE9uR2I5b0ZIb1A4NDV4azN0N2NtdXNIblFjXzE2ODQxOTg1OTc6MTY4NDIwMjE5N19WNA)man and woman posing for a picture at Disneyworld, 2001, detailed face, detailed arms, full body portrait, photograph | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=MjU2NjAwZmZiMWFmNzNjNmI1NWIwM2E2NWYzZDEwZTVfbXN4SzllbU1QN1hzU1BZaDR6Z2liOTZFNFFDNDlSM0FfVG9rZW46WDNBR2JkaEtFb1FJaGx4QjRWOWNIM3N6bm1kXzE2ODQxOTg1OTc6MTY4NDIwMjE5N19WNA)two men, brothers, one man has hair, arguing outside a house on a patio, 1980, realistic arms, vintage photograph, flash photography | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=MjJiNjg5NWRmMjJlODRmNTEyNzhkMjg4ZTQwMGVkMjJfUUlMalVzRXBkRUx6cXdtT0NhTWdPdkUzcW1RQm5vQ1ZfVG9rZW46R241bWJNVzN6b1FPaEt4SDVHUGNCeTFwbnRkXzE2ODQxOTg1OTc6MTY4NDIwMjE5N19WNA)two siblings sitting on deck in late afternoon, early 2000s, flash photography, polaroid |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2I5MmYzMmExNzMyODZkMmE0YTNiZGE3NmI4M2EzOTlfSm0ySkdWWkVIMHRuTXhKMUUzNm1KWWxIQjB3YWNPQllfVG9rZW46VlBSOGJzU1VUb0w5RGJ4VHJkMWNvOXhjbnNoXzE2ODQxOTg1OTc6MTY4NDIwMjE5N19WNA)two siblings sitting on deck in late afternoon, early 2000s, flash photography, polaroid | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=MTBiODE4ZjdlM2I2NTk3MzA5YzIzYWJmMDllNTQ0YjVfUk53Ykh0YnFYazZkcXJYSHVLTUdsSXpybzE1aVhrdWhfVG9rZW46T2Q3RGJCVXZib1lZN1B4VHFnSWN5aHZtbkFjXzE2ODQxOTg1OTc6MTY4NDIwMjE5N19WNA)movie poster for the shawshank redemption prison, style of Saul Bass | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=MTZjZjZlYzBkMTBlNmNiNzIwMDMyNGJhNWUxZjcxZDNfRWRXUkhSVU9qajN1dExIYURjSHMyb05OTUFmQVd1eE9fVG9rZW46SkVwbmJRaDZub3NmTEd4cjg4M2MyWnlJbldjXzE2ODQxOTg1OTc6MTY4NDIwMjE5N19WNA)movie poster for the Matrix, style of Saul Bass |

@@ -147,8 +147,25 @@ AI能改变世界吗？当然！立刻吗？不是。
 
 - [标志设计](./MidJourneyPrompt/V4/标志设计.md)
 - [网页&APPUI设计](./MidJourneyPrompt/V4/网页&APPUI设计.md)
+- [等距艺术-IsometricArt](./MidJourneyPrompt/V4/等距艺术-IsometricArt.md)
+- [服装设计-FashionDesign](./MidJourneyPrompt/V4/服装设计-FashionDesign.md)
+- [建筑-Architecture](./MidJourneyPrompt/V4/建筑-Architecture.md)
+- [角色设计-CharacterDesign](./MidJourneyPrompt/V4/角色设计-CharacterDesign.md)
+- [人物照片-PhotographsofPeople](./MidJourneyPrompt/V4/人物照片-PhotographsofPeople.md)
+- [图案-Patterns](./MidJourneyPrompt/V4/图案-Patterns.md)
+- [纹身设计-TattooDesign](./MidJourneyPrompt/V4/纹身设计-TattooDesign.md)
+- [像素艺术风格-PixelArt](./MidJourneyPrompt/V4/像素艺术风格-PixelArt.md)
+- [纸艺-Papercraft](./MidJourneyPrompt/V4/纸艺-Papercraft.md)
+- [T恤设计-T-shirtDesign](./MidJourneyPrompt/V4/T恤设计-T-shirtDesign.md)
+- [电影-Film](./MidJourneyPrompt/V4/电影-Film.md)
+- [电影海报-MoviePosters](./MidJourneyPrompt/V4/电影海报-MoviePosters.md)
+- [动漫与吉卜力工作室-Anime&StudioGhibli](./MidJourneyPrompt/V4/动漫与吉卜力工作室-Anime&StudioGhibli.md)
 
+- [V4-如何创建令人震惊的动漫图像（Midjourney的Niji模式）](./MidJourneyPrompt/V4-如何创建令人震惊的动漫图像（Midjourney的Niji模式）.md)
+- [V4-如何在Midjourney中创作像素艺术（包含提示）](./MidJourneyPrompt/V4-如何在Midjourney中创作像素艺术（包含提示）.md)
+- [V4-Midjourney等距游戏艺术：提示和指南](./MidJourneyPrompt/V4-Midjourney等距游戏艺术：提示和指南.md)
 #### V5
+更新中。。。
 
 ### [生产力/效率](./生产力效率.md)
 ### 应用

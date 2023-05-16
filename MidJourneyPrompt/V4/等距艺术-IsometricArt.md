@@ -1,0 +1,13 @@
+来自 V4 的等距艺术绝对令人惊叹，即使几乎没有提示。尝试以下提示添加：
+
+- *isometric*
+- *low-poly*
+- *box cutout*
+- *made in blender*
+- Materials: *matte clay*
+
+| ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=OTg2Y2Q3MDZkZmY0NGI0NzBhYjkzYTk3NzA3YjA1NTZfbFY0clJvUk12YnVJU1VxTjBJVlBJcDd1TkpScnl1akxfVG9rZW46TGVOdmJ3SXZpb3JIU0h4RTFPZ2NTZG1ZbmpjXzE2ODQxOTg1MDk6MTY4NDIwMjEwOV9WNA)cute isometric kitchen, made with Blender | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=MDIyNzA5MzVjOGQyNDU5YzE2NDQ2MmRmZGFmYjNmNWVfNkFmMmVyd1JkbEpXR1ZjN2YwRzdQZDYxdjNzU29ITHdfVG9rZW46VXNEU2JLWFgwbzhpTHN4NGY1bGNDdU82bmFkXzE2ODQxOTg1MDk6MTY4NDIwMjEwOV9WNA)cute isometric island, cottage in the woods, river with water falling off the edge, made with blender | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDY4Mzc4ZDA5ZDk1NTAwYmJmMmZmM2Q4MWFlNTc4YzhfY0RCYjIxRDQxdm12OUlOaGtxZFJsTEhsRGMyRW05bUlfVG9rZW46UUM0RGI1bjBxb0ZSbU14MFZLTmMxRTI1bk5lXzE2ODQxOTg1MDk6MTY4NDIwMjEwOV9WNA)cute isometric island, Winterfell from Game of Thrones, blender 3D |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=NGNiZmE1Y2E2ZGM1YzE5YzVkZDM1YzgwZDJmY2FmMjhfaXJZMGY3Q2sxSnpsMTlnb3ZCSFRZR3dyM09EWDBWRmFfVG9rZW46UnBzcmJ5VjVzb1ZCM1h4ajRQUWNjNDRXbkliXzE2ODQxOTg1MDk6MTY4NDIwMjEwOV9WNA)8 bit pixel art,inside of spaceship command center, style of game boy, visible outlines, isometric | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=MzczZTA5MjkxYzIzZDc4NmMwMmJlYzBiMTcwOGE5NWZfeGRDZ2pTYjZ2T1g5NUxQSFZSV0FiVjJrZ2xMR0IwdXpfVG9rZW46VlVmSWJBcTJYb3BST2Z4akp1bGNOanp1blllXzE2ODQxOTg1MDk6MTY4NDIwMjEwOV9WNA)8 bit pixel art, living room, style of SNES and PS1 and Game Boy, visible outlines, isometric | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmQzNTFlYTg3ZGI3ZjRkMzkwMmU5MGZlMDc5ZjdmMGZfRG1aRGdJUnBEQlBLSWljRXZSRTN1blVKVUhCNjV6aGZfVG9rZW46RmhrOGIyMDF5b3F0THB4N3BwWWNoSHFhbjNkXzE2ODQxOTg1MDk6MTY4NDIwMjEwOV9WNA)isometric clean art of exterior of condo designed by kengo kuma, blender |
+
+更多的可以查看这里：[Midjourney等距游戏艺术：提示和指南](https://nhrvt0kw31.feishu.cn/wiki/LrYlwECcgiqlUEkLPYycPKFunxc)

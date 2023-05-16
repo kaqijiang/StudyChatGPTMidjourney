@@ -1,0 +1,14 @@
+![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=YmQ1NTE0YTEwYTY5YzcxY2Y4YzhlZmU2YmJmYTc1NWRfbG5URmR4QzJsZEtnYmJiSGZNd3hGTXJTYk4zY2QxSEJfVG9rZW46WWdBcWI3QVlPb1J2WTl4bmtGWmNGeEk3bnJGXzE2ODQxOTg0Mjk6MTY4NDIwMjAyOV9WNA)
+
+我从未发现旧版本的 Midjourney 擅长像素艺术，但 Midjourney V4 让我大吃一惊。我也无法通过自己运行 Stable Diffusion 来接近任何目标。通过一些艺术家修饰，这些作为游戏背景看起来会令人难以置信。
+
+您可以通过将这些添加到提示中来实现不同风格的像素艺术：
+
+- *`8 bit pixel art / 16 bit pixel art`*` / 32 bit pixel art`
+  - 是的，改变这些会改变图像的风格。在 32 位，我们注意到它从“像素艺术”转向了常规插图。
+- *`Sega Dreamcast`*` / `*`SNES`*` / Atari`
+- *`Isometric`*
+
+| ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=M2FmYmNjNGU2ZmRhNTBmYzRmMzQ0NGJjMzhmODU3ZTNfdGtFYmJXYmIzeGdIVEphc01wUnp2aHZFNWpNNlAxeGRfVG9rZW46V3lFdGJEUVRYbzZmb054a205cmNqSlNJbndoXzE2ODQxOTg0Mjk6MTY4NDIwMjAyOV9WNA)16 bit pixel art, island in the clouds, by studio ghibli, cinematic still, hdr复制 | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=MzY2ZjMwMTRlMzQ5M2NjMzMxMzEzODk4ZjVjM2Y5ZDlfTVdmNG5BN3FObDFkMXdyYkI4aVVHQks1bVIwNjdPdUFfVG9rZW46RU1QQmJleXppb0phUG94OUhYbWNHc216blJlXzE2ODQxOTg0Mjk6MTY4NDIwMjAyOV9WNA)16 bit pixel art, outside of a coffeeshop on a rainy day, light coming from windows, cinematic still, hdr | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2ZiMjE2NWRmOTgzMTY4MGRhMzM2ZWIwNGJhMDY1MjdfdTgydWlDSnRnWUtZa2NqR3gyd3IwMlNrZklZYmw4cWhfVG9rZW46TWFVc2JzS3VRb2FNdjF4dnBXd2NKMGJwbjllXzE2ODQxOTg0Mjk6MTY4NDIwMjAyOV9WNA)16 bit pixel art, isometric, cozy tavern interior with cute characters, cinematic still, hdr |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=NGMzMmQxMDUzYzE2YmVjZTkxNjg1NWNjMmU2NmJiMGVfZXZtY2xWVXZ0OVdjbENBNDRkUHhtaXJWejc2TDBvSEVfVG9rZW46UnkxTGJNdFJ1b1ZsVHR4RDNEU2NqTlhKbldoXzE2ODQxOTg0Mjk6MTY4NDIwMjAyOV9WNA)clean pixel art, moon base with rover, style of castlevania 1986 | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=N2IyMWYwMDkyYTlmNjkxMTVmOGEwYWFiYjI0NmM5MTdfRHJna2c2QndkU2QyaFVkS2FoU2xHNElRd2YydVlNempfVG9rZW46VWZMS2JtV2xsb0IwOEF4SnkweWM2dXZVbjNjXzE2ODQxOTg0Mjk6MTY4NDIwMjAyOV9WNA)pixel art, misty mountains, style of cave story | ![img](https://nhrvt0kw31.feishu.cn/space/api/box/stream/download/asynccode/?code=YTBkMTJmMmQ1MThiNjZjNjJmODJkMjhiNGY5NjJhZGNfcVNFdTNReXYzM3pTbEQzZWVXRURDYjh1VUoyQzRWajdfVG9rZW46T2htdmJYNFpub1pCcFp4Z0dzeGNLWUgwbm1lXzE2ODQxOTg0Mjk6MTY4NDIwMjAyOV9WNA)chinese gate, style of owlboy pixel art |
