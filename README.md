@@ -9,6 +9,9 @@
         <td width="50%"><img src="./doc/imgs/way2.png" /></td>
     </tr>
 </table>
+<img width="300" src= "./doc/imgs/gzh.png" align="left">
+
+公众号【**阿杰与AI**】回复"**AI**"加入群聊共同探讨更多玩法
 
 ## 目录
 
@@ -59,18 +62,10 @@ AI能改变世界吗？当然！立刻吗？不是。
 
 我们希望通过这门专栏，涵盖这些知识，帮助你建立基本的能力圈，在AIGC或者自媒体创作上取得「令人尊敬」的结果。如果你有热情去探索更深，可以沿着专栏的知识体系继续学习，慢慢拓展自己的能力边界。
 
-具体内容在下方。
+
 
 ## 邀你一起「共建」专栏
-<div style="text-align: left;">
-<img width="300" src= "./doc/imgs/gzh.png" align=left />
 
-<span>公众号<阿杰与AI>回复"AI"加入群聊共同探讨更多玩法</span>
-
-</div>
-<br/>
-<br/>
-<br/>
 
 最后，我们也想向你发出一份特殊的邀请，请你一起「共建」这门专栏。
 
