@@ -12,7 +12,7 @@
     </table>
     <p>
         <img width="40%" style="" src= "./doc/imgs/gzh.png" >
-        <p>公众号<span font-weight="900">【阿杰与AI】</span>,回复<span font-weight="900">"AI"</span>加入群聊,共同探讨更多玩法</p>
+        <p>公众号【阿杰与AI】,回复 "AI" 加入群聊,共同探讨更多玩法</p>
     </p>
 </div>
 
