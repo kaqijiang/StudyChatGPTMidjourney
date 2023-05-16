@@ -45,6 +45,8 @@ AI能改变世界吗？当然！立刻吗？不是。
 
 如果您想深入了解ChatGPT或MidJourney，可以通过学习它们的[基础知识](https://nhrvt0kw31.feishu.cn/wiki/LGWTwaKyriiBmAkp4dQcJtqTnMd)来获得更全面的了解。
 
+[ChatGPT插件开发指南](https://nhrvt0kw31.feishu.cn/wiki/DtBRwdr6ciSgbqkZ9kJcPl3cn0e)帮助你了解现有插件和插件开发流程
+
 [ChatGPT行业提示](https://nhrvt0kw31.feishu.cn/wiki/LGWTwaKyriiBmAkp4dQcJtqTnMd)提供了多种场景下的提示语模板，可以帮助您在工作、学习和创作中更高效地应对各种情境。
 
 [MidJourney Pormpt](https://nhrvt0kw31.feishu.cn/wiki/DeyBwSWwDi4pTxkmZ0dcTAtOnQf)中包含多种提示语和效果图，可以帮助您更好地学习使用MidJourney绘图。
@@ -120,6 +122,16 @@ AI能改变世界吗？当然！立刻吗？不是。
 - [12.ChatGPT生成SD和Midj的提示（prompt）](./学习MidJoureny的基础知识/12.ChatGPT生成SD和Midj的提示（prompt）.md)
 - [13.如何使用ChatGPT给出MidJourney提示-【秘密武器】](./学习MidJoureny的基础知识/13.如何使用ChatGPT给出MidJourney提示-【秘密武器】.md)
 - [14.如何订阅计划](./学习MidJoureny的基础知识/14.如何订阅计划.md)
+
+### ChatGPT提示词
+- [1.如何访问插件](./ChatGPT插件/1.如何访问插件.md)
+- [2.开发ChatGPT插件-介绍](./ChatGPT插件/2.开发ChatGPT插件-介绍.md)
+- [3.开发ChatGPT插件-入门](./ChatGPT插件/3.开发ChatGPT插件-入门.md)
+- [4.开发ChatGPT插件-认证](./ChatGPT插件/4.开发ChatGPT插件-认证.md)
+- [5.开发ChatGPT插件-示例插件](./ChatGPT插件/5.开发ChatGPT插件-示例插件.md)
+- [6.开发ChatGPT插件-审核](./ChatGPT插件/6.开发ChatGPT插件-审核.md)
+- [7.开发ChatGPT插件-线上插件及常见问题](./ChatGPT插件/7.开发ChatGPT插件-线上插件及常见问题.md)
+- [8.ChatGPT插件商店列表](./ChatGPT插件/8.ChatGPT插件商店.md)
 ### ChatGPT提示词
 - [ChatGPT提示词](./ChatGPT提示词/1.ChatGPT提示词.md)
 - [ChatGPT提示工程从入门到进阶](./ChatGPT提示词/2.ChatGPT提示工程从入门到进阶.md)
