@@ -11,9 +11,8 @@
         </tr>
     </table>
     <p>
-        <img width="220" style="" src= "./doc/imgs/gzh.png" >
-        <p>公众号【阿杰与AI】</p>
-        <p>回复"AI"加入群聊共同探讨更多玩法</p>
+        <img width="40%" style="" src= "./doc/imgs/gzh.png" >
+        <p>公众号<span style="font-weight:700;">阿杰与AI</span>回复<span style="font-weight:700;">AI</span>加入群聊共同探讨更多玩法</p>
     </p>
 </div>
 
