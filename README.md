@@ -1,19 +1,22 @@
 # 飞书知识库：用AI工作学习创作专栏
-<table>
-    <tr>
-            <th>OpenAI技术发展路线</th>
-            <th>Transformer模型结构</th>
-    </tr>
-    <tr>
-        <td width="50%"><img src="./doc/imgs/way1.png"  /></td>
-        <td width="50%"><img src="./doc/imgs/way2.png" /></td>
-    </tr>
-</table>
-<p>
-    <img width="40%" src= "./doc/imgs/gzh.png" align="left">
-    <p>公众号【阿杰与AI】</p>
-    <p>回复"AI"加入群聊共同探讨更多玩法</p>
-</p>
+<div>
+    <table>
+        <tr>
+                <th>OpenAI技术发展路线</th>
+                <th>Transformer模型结构</th>
+        </tr>
+        <tr>
+            <td width="50%"><img src="./doc/imgs/way1.png"  /></td>
+            <td width="50%"><img src="./doc/imgs/way2.png" /></td>
+        </tr>
+    </table>
+    <p>
+        <img width="40%" src= "./doc/imgs/gzh.png" align="left">
+        <p>公众号【阿杰与AI】</p>
+        <p>回复"AI"加入群聊共同探讨更多玩法</p>
+    </p>
+</div>
+
 
 ## 目录
 
