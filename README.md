@@ -193,6 +193,8 @@ AI能改变世界吗？当然！立刻吗？不是。
 ### [AI工具](./工具箱.md)
 
 ### GitHub项目
+- [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) Auto-GPT中文版 更方便国人使用
+- [Auto-GPT-Web-ZH](https://autogpt-zh.com) Auto-GPT中文网页版 无需部署，一键使用
 
 ## 沟通基地
 
