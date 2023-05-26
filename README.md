@@ -190,7 +190,22 @@ AI能改变世界吗？当然！立刻吗？不是。
 - [用AI玩转短视频](./应用/用AI玩转短视频.md)
 - [ChatGPT接入微信](./应用/ChatGPT接入微信.md)
 - [Stable Diffusion部署以及基于云端的模型训练](./应用/StableDiffusion部署以及基于云端的模型训练.md)
+### 其他
+
+- [人工智能的未来取决于英伟达等公司的半导体芯片](./other/人工智能的未来取决于英伟达等公司的半导体芯片.md)
+- [我们如何最好地管理人工智能？](./other/我们如何最好地管理人工智能？.md)
+
 ### [AI工具](./工具箱.md)
+
+- [ChatGPT](https://chat.openai.com)
+- [MidJourney Prompt Tool](https://prompt.noonshot.com/)
+- [PPT Tome](https://tome.app/)
+- [营销文案copy.ai](https://www.copy.ai/)
+- [视频AI：Fliki](https://fliki.ai/)
+- [视频增强AI：Aimages](https://aimages.ai/)
+- [绘画AI：Autodraw](https://www.autodraw.com/)
+- [音频生成AI：FakeYou](https://fakeyou.com/)
+- [音乐生成：Jukebox](https://openai.com/research/jukebox)
 
 ### GitHub项目
 - [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) Auto-GPT中文版 更方便国人使用
