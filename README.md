@@ -182,18 +182,19 @@ AI能改变世界吗？当然！立刻吗？不是。
 - [50+MidJourney标志设计提示：完整标志指南](./MidJourneyPrompt/50+MidJourney标志设计提示：完整标志指南.md)
 - [100+MidJourneyNiji提示（动漫v5模型）](./MidJourneyPrompt/100+MidJourneyNiji提示（动漫v5模型）.md)
 
-### [生产力/效率](./生产力效率.md)
-### 应用
+### 生产力/效率/应用
 - [抖音B站数字人-FAY](./应用/抖音B站数字人-FAY.md)
 - [部署自己的ChatGPT](./应用/部署自己的ChatGPT.md)
 - [通过ChatGPT尝试量化交易](./应用/通过ChatGPT尝试量化交易.md)
 - [用AI玩转短视频](./应用/用AI玩转短视频.md)
 - [ChatGPT接入微信](./应用/ChatGPT接入微信.md)
 - [Stable Diffusion部署以及基于云端的模型训练](./应用/StableDiffusion部署以及基于云端的模型训练.md)
+- [如何使用ChatGPT协助Jenkins部署前后端项目Java_Vue](./应用/如何使用ChatGPT协助Jenkins部署前后端项目Java_Vue.md)
 ### 其他
 
 - [人工智能的未来取决于英伟达等公司的半导体芯片](./other/人工智能的未来取决于英伟达等公司的半导体芯片.md)
 - [我们如何最好地管理人工智能？](./other/我们如何最好地管理人工智能？.md)
+- [人工智能将巩固全球不平等](./other/人工智能将巩固全球不平等.md)
 
 ### [AI工具](./工具箱.md)
 

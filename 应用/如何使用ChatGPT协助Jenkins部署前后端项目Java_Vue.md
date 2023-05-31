@@ -1,3 +1,5 @@
+## 如何使用ChatGPT协助Jenkins部署前后端项目Java_Vue
+
 ![img](images/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8ChatGPT%E5%8D%8F%E5%8A%A9Jenkins%E9%83%A8%E7%BD%B2%E5%89%8D%E5%90%8E%E7%AB%AF%E9%A1%B9%E7%9B%AEJava_Vue/(null)-20230526080843969.(null))
 
 现在主流方向应该是Git服务器 + Jenkins服务器 + Docker持续化集成，但是因为Docker有一定的学习成本很多人也就没有增加Docker，我们先使用非Docker方式部署一套，然后再加入Docker对比一下方便程度。
